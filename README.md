@@ -34,8 +34,7 @@
 <body>
 	<h1>Jayaraj V</h1>
 	<h2>Student at Ramco Institue of Technology</h2>
-
-	<h2>Education</h2>
+        <h2>Education</h2>
 	<ul id="education">
 		<li>High school at Bharathiyar Matric hr sec school</li>
         <li>Percentage:74.8</li>
@@ -44,13 +43,13 @@
         <li></li>
 	</ul>
 
-	<h2>Experience</h2>
+<h2>Experience</h2>
 	<ul>
 		<li>Virtual Internship Program Hackathon(Data science) By Tamilnadu State Skill Development corporation, Summer 2023</li>
       <li>online course: Introduction to Artificial Intelligence and Data Science in python,udemy</li>
 	</ul>
 
-	<h2>Skills</h2>
+<h2>Skills</h2>
 	<ul>
 		<li>Programming languages: Python</li>
 		<li>Web development: HTML</li>
